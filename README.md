@@ -1,3 +1,3 @@
 # hello-world
 SDR1 training 
-Hi im konner and I and a Sales Development Rep at circleci 
+Hi im konner and I am a Sales Development Rep at circleci 
